@@ -1,3 +1,5 @@
+Project was based on DFIR on youtube. 
+
 The SOC Automation Lab has been successfully established and configured, integrating Wazuh, TheHive, and Shuffle to deliver streamlined event monitoring, alerting, and incident response. This implementation provides a solid framework for expanding and tailoring automation workflows to meet specific SOC needs.
 
 Key Accomplishments:
